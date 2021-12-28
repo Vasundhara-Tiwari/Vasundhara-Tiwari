@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vasundhara</h1>
 
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=vasundhara-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="vasundhara-tiwari" /> </h1>
-
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
 - 🌱 I’m currently learning Web Development  
 - 🤔 I’m looking for help with UI Designs 
