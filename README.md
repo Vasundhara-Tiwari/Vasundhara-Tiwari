@@ -98,7 +98,4 @@
 <h2> My Profile Stats </h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasundhara-tiwari&show_icons=true&locale=en" alt="vasundhara-tiwari" /></p>
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vasundhara-tiwari&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
