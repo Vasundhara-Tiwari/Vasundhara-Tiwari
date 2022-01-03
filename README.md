@@ -74,6 +74,13 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img title="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
+  
+  <h1 align="center">
+  
+  ![yogocat_animation](https://user-images.githubusercontent.com/56646239/147961216-2802f1f8-7967-4b5b-bc2c-0f27cbe7c152.gif)
+
+  </h1>
+  
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasundhara-tiwari&show_icons=true&locale=en&layout=compact" alt="vasundhara-tiwari" /></p>
 </p><br /><br /><br /><br /><br /><br /><br />
 <br />
