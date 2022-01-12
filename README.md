@@ -82,17 +82,11 @@
   ![yogocat_animation](https://user-images.githubusercontent.com/56646239/147961216-2802f1f8-7967-4b5b-bc2c-0f27cbe7c152.gif)
 
   </h1>
- 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasundhara-tiwari&show_icons=true&locale=en&layout=compact" alt="vasundhara-tiwari" /></p>
-</p><br /><br /><br /><br /><br /><br /><br />
-<br />
-
-
-<h2> Get In Touch <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
-
-
+</p>
+<h2> Get In Touch <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 
+<br/>
+<br/>
 <p align="left">
-  
   <a href = 'https://www.linkedin.com/in/vasundhara-tiwari'> <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" height="30" width="40" /></a> 
   <a href="https://www.codechef.com/users/vasundhara21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vasundhara21" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vasundhara_tiwa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasundhara_tiwa1" height="30" width="40" /></a>
@@ -100,13 +94,14 @@
    <a href="https://codepen.io/vasundhara-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vasundhara-tiwari" height="30" width="40" /></a>
 <a href="https://dribbble.com/vasundhara-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vasundhara-tiwari" height="30" width="40" /></a>
 </p>
-<br/>
 
+</h2>
 
 
 <h2> My Profile Stats </h2>
 
-![Vasundhara Tiwari](https://github-readme-stats.vercel.app/api?username=vasundhara-tiwari&show_icons=true&theme=onedark)
+![Vasundhara Tiwari](https://github-readme-stats.vercel.app/api/top-langs?username=vasundhara-tiwari&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
+![Vasundhara Tiwari](https://github-readme-stats.vercel.app/api?username=vasundhara-tiwari&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vasundhara-tiwari&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vasundhara-tiwari&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
