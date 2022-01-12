@@ -12,9 +12,9 @@
 <img  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px>
   </h1>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<br />
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <p align="left"> 
+  <br/>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img title="C"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -76,13 +76,13 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img title="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
-  
+ 
   <h1 align="center">
   
   ![yogocat_animation](https://user-images.githubusercontent.com/56646239/147961216-2802f1f8-7967-4b5b-bc2c-0f27cbe7c152.gif)
 
   </h1>
-  
+   </h2>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasundhara-tiwari&show_icons=true&locale=en&layout=compact" alt="vasundhara-tiwari" /></p>
 </p><br /><br /><br /><br /><br /><br /><br />
 <br />
