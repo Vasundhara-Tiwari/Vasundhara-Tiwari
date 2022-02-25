@@ -100,7 +100,7 @@
 
 <h2> My Profile Stats </h2>
 
-![Vasundhara Tiwari](https://github-readme-stats.vercel.app/api/top-langs?username=vasundhara-tiwari&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+<a href="https://github.com/vasundhara-tiwari/github-readme-stats"><img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundhara-tiwari&langs_count=8&count_private=true&layout=compact&theme=tokyonight" /></a>
 
 ![Vasundhara Tiwari](https://github-readme-stats.vercel.app/api?username=vasundhara-tiwari&show_icons=true&theme=tokyonight)
 
