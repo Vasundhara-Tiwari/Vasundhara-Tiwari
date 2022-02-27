@@ -83,6 +83,10 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img title="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
+    <br/><br/>
+  <a href="https://github.com/vasundhara-tiwari/github-readme-stats" align="center">
+        <img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundhara-tiwari&langs_count=8&count_private=true&layout=compact&theme=tokyonight" />
+    </a>
    </h2>
 </p>
 <h2> Get In Touch <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 
