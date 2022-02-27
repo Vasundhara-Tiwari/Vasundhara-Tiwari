@@ -1,16 +1,26 @@
+## Hi 👋, I'm Vasundhara &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  
+<span float="right">
+    <img src="https://komarev.com/ghpvc/?username=vasundhara-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="vasundhara-tiwari" />
+</span>
 
-<h1 align="center">Hi 👋, I'm Vasundhara</h1>
+ 
 
-<h1 align="center"> <img src="https://komarev.com/ghpvc/?username=vasundhara-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="vasundhara-tiwari" />
-</h1>
-  
-- 🌱 I’m currently learning Web Development  
-- 🤔 I’m looking for help with UI Designs 
-- 😄 Pronouns: She/her 
+<table border=0>
+  <tr border=0>
+    <td  border=0>
+   - 🌱 I’m currently learning Web Development &nbsp;&nbsp; <br/>
+  - 🤔 I’m looking for help with UI Designs &nbsp;&nbsp; <br/>
+  - 😄 Pronouns: She/her <br/>
+    </td>
+    <td  border=0>
+      <img src="https://user-images.githubusercontent.com/56646239/155891919-181e1c92-fdcf-4481-96be-0f4c2196c1f5.gif">
+    </td>
+  </tr>
+ </table>
 
-<h1 align="center">
-<img  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px>
-  </h1>
+
+
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <p align="left"> 
@@ -77,11 +87,6 @@
     <img title="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
    </h2>
-  <h1 align="center">
-  
-  ![yogocat_animation](https://user-images.githubusercontent.com/56646239/147961216-2802f1f8-7967-4b5b-bc2c-0f27cbe7c152.gif)
-
-  </h1>
 </p>
 <h2> Get In Touch <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 
 <br/>
