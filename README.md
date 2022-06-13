@@ -18,7 +18,7 @@
   </tr>
  </table>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32>
 <p align="left"> 
   <br/>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -89,7 +89,7 @@
     </a>
    </h2>
 </p>
-<h2> Get In Touch <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 
+<h2> Get In Touch <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> 
 <br/>
 <br/>
 <p align="left">
