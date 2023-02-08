@@ -2,26 +2,17 @@
 <span float="right">
     <img src="https://komarev.com/ghpvc/?username=vasundhara-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="vasundhara-tiwari" />
 </span>
-
+  - 🌱 I’m currently learning Web Development &nbsp;&nbsp; <br/>
+  - 🤔 I’m looking for help with UI Designs &nbsp;&nbsp; <br/>
+  - 😄 Pronouns: She/her <br/>
  
 
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32>
 <table border=0>
   <tr border=0>
     <td  border=0>
-   - 🌱 I’m currently learning Web Development &nbsp;&nbsp; <br/>
-  - 🤔 I’m looking for help with UI Designs &nbsp;&nbsp; <br/>
-  - 😄 Pronouns: She/her <br/>
-    </td>
-    <td  border=0>
-      <img src="https://user-images.githubusercontent.com/56646239/155891919-181e1c92-fdcf-4481-96be-0f4c2196c1f5.gif">
-    </td>
-  </tr>
- </table>
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32>
-<p align="left"> 
-  <br/>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
                 <img title="C"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
             </a> 
             <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -54,7 +45,12 @@
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
     <img title="Cassandra" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> 
   </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    </td>
+    <td  border=0 align="center">
+      <img src="https://user-images.githubusercontent.com/56646239/155891919-181e1c92-fdcf-4481-96be-0f4c2196c1f5.gif" width="300" height="300">
+    </td>
+      <td  border=0>
+           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
@@ -83,10 +79,18 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img title="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
-    <br/><br/>
+      </td>
+    </td>
+  </tr>
+ </table>
+
+<p align="left"> 
+  <br/>
+          <br/><br/>
   <a href="https://github.com/vasundhara-tiwari/github-readme-stats" align="center">
         <img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundhara-tiwari&langs_count=8&count_private=true&layout=compact&theme=tokyonight" />
     </a>
+ 
    </h2>
 </p>
 <h2> Get In Touch <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> 
