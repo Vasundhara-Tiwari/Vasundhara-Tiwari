@@ -1,11 +1,32 @@
-## Hi 👋, I'm Vasundhara &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  
-<span float="right">
-    <img src="https://komarev.com/ghpvc/?username=vasundhara-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="vasundhara-tiwari" />
-</span>
-  - 🌱 I’m currently learning Web Development &nbsp;&nbsp; <br/>
+
+
+<h1 style="display: inline-block;" align="center">
+    Hi 
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="40"
+         width="40" />
+    I'm Vasundhara !
+ </h1>
+
+  - 🌱 I’m currently learning Web Development &nbsp;&nbsp; 
   - 🤔 I’m looking for help with UI Designs &nbsp;&nbsp; <br/>
   - 😄 Pronouns: She/her <br/>
- 
+  - 😎 Profile views: &nbsp; <img src="https://komarev.com/ghpvc/?username=vasundhara-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="vasundhara-tiwari" />
+
+  
+  
+ <h2> Get In Touch <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> 
+<br/>
+<br/>
+ <p align="left">
+  <a href = 'https://www.linkedin.com/in/vasundhara-tiwari'> <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" height="30" width="40" /></a> 
+  <a href="https://www.codechef.com/users/vasundhara21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vasundhara21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vasundhara_tiwa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasundhara_tiwa1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vasundhara-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasundhara-tiwari" height="30" width="40" /></a>
+   <a href="https://codepen.io/vasundhara-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vasundhara-tiwari" height="30" width="40" /></a>
+<a href="https://dribbble.com/vasundhara-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vasundhara-tiwari" height="30" width="40" /></a>
+</p>
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32>
@@ -85,25 +106,11 @@
  </table>
 
 <p align="left"> 
-  <br/>
-          <br/><br/>
   <a href="https://github.com/vasundhara-tiwari/github-readme-stats" align="center">
         <img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundhara-tiwari&langs_count=8&count_private=true&layout=compact&theme=tokyonight" />
     </a>
- 
-   </h2>
 </p>
-<h2> Get In Touch <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> 
-<br/>
-<br/>
-<p align="left">
-  <a href = 'https://www.linkedin.com/in/vasundhara-tiwari'> <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" height="30" width="40" /></a> 
-  <a href="https://www.codechef.com/users/vasundhara21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vasundhara21" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vasundhara_tiwa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasundhara_tiwa1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vasundhara-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasundhara-tiwari" height="30" width="40" /></a>
-   <a href="https://codepen.io/vasundhara-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vasundhara-tiwari" height="30" width="40" /></a>
-<a href="https://dribbble.com/vasundhara-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vasundhara-tiwari" height="30" width="40" /></a>
-</p>
+
 
 </h2>
 
