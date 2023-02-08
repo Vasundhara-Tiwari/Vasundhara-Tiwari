@@ -13,12 +13,8 @@
   - 🤔 I’m looking for help with UI Designs &nbsp;&nbsp; <br/>
   - 😄 Pronouns: She/her <br/>
   - 😎 Profile views: &nbsp; <img src="https://komarev.com/ghpvc/?username=vasundhara-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="vasundhara-tiwari" />
-
   
-  
- <h2> Get In Touch <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> 
-<br/>
-<br/>
+<p font=10> Get In Touch <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> 
  <p align="left">
   <a href = 'https://www.linkedin.com/in/vasundhara-tiwari'> <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" height="30" width="40" /></a> 
   <a href="https://www.codechef.com/users/vasundhara21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vasundhara21" height="30" width="40" /></a>
@@ -27,7 +23,7 @@
    <a href="https://codepen.io/vasundhara-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vasundhara-tiwari" height="30" width="40" /></a>
 <a href="https://dribbble.com/vasundhara-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vasundhara-tiwari" height="30" width="40" /></a>
 </p>
-
+</p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32>
 <table border=0>
@@ -68,8 +64,8 @@
   </a> 
     </td>
     <td  border=0 align="center">
-      <img src="https://user-images.githubusercontent.com/56646239/155891919-181e1c92-fdcf-4481-96be-0f4c2196c1f5.gif" width="300" height="300">
-    </td>
+        <img src="https://user-images.githubusercontent.com/56646239/217608887-7983ea8b-e450-4361-97a5-ceefcdc5ad5a.gif">
+    </td> 
       <td  border=0>
            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
