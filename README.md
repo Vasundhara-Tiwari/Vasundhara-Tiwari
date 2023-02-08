@@ -64,7 +64,7 @@
   </a> 
     </td>
     <td  border=0 align="center">
-        <img src="https://user-images.githubusercontent.com/56646239/217608887-7983ea8b-e450-4361-97a5-ceefcdc5ad5a.gif">
+        <img src="https://user-images.githubusercontent.com/56646239/217609354-081cde59-89da-405f-b4ea-afbf1fe90057.gif">
     </td> 
       <td  border=0>
            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
