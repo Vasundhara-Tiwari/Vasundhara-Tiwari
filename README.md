@@ -1,5 +1,3 @@
-
-
 <h1 style="display: inline-block;" align="center">
     Hi 
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -25,14 +23,16 @@
 </p>
 </p>
 
-<p align="center"> 
- <img src="https://user-images.githubusercontent.com/56646239/217609354-081cde59-89da-405f-b4ea-afbf1fe90057.gif">
-</p>
+<p>
+    <a href="https://github.com/vasundhara-tiwari/github-readme-stats" align="left">
+        <img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundhara-tiwari&langs_count=8&count_private=true&layout=compact&theme=tokyonight" />
+    </a>
+    <img src="https://user-images.githubusercontent.com/56646239/217609354-081cde59-89da-405f-b4ea-afbf1fe90057.gif" align="right">
+    </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32>
-<table border=0>
-  <tr border=0>
-    <td  border=0>
+    <br/>
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
                 <img title="C"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
             </a> 
@@ -65,14 +65,7 @@
    
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
     <img title="Cassandra" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> 
-  </a> 
-    </td>
-    <td  border=0 align="center">
-        <a href="https://github.com/vasundhara-tiwari/github-readme-stats" align="center">
-        <img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundhara-tiwari&langs_count=8&count_private=true&layout=compact&theme=tokyonight" />
-        </a>
-      </td> 
-      <td  border=0>
+  </a>
            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
                <img title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
           </a> 
@@ -101,9 +94,5 @@
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img title="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-      </td>
-    </td>
-  </tr>
- </table>
+  </a>
  
