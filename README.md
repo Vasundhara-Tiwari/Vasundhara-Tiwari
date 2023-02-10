@@ -25,6 +25,10 @@
 </p>
 </p>
 
+<p align="center"> 
+ <img src="https://user-images.githubusercontent.com/56646239/217609354-081cde59-89da-405f-b4ea-afbf1fe90057.gif">
+</p>
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32>
 <table border=0>
   <tr border=0>
@@ -64,12 +68,14 @@
   </a> 
     </td>
     <td  border=0 align="center">
-        <img src="https://user-images.githubusercontent.com/56646239/217609354-081cde59-89da-405f-b4ea-afbf1fe90057.gif">
-    </td> 
+        <a href="https://github.com/vasundhara-tiwari/github-readme-stats" align="center">
+        <img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundhara-tiwari&langs_count=8&count_private=true&layout=compact&theme=tokyonight" />
+        </a>
+      </td> 
       <td  border=0>
            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+               <img title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+          </a> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
     <img title="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a>
@@ -100,21 +106,4 @@
     </td>
   </tr>
  </table>
-
-<p align="left"> 
-  <a href="https://github.com/vasundhara-tiwari/github-readme-stats" align="center">
-        <img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundhara-tiwari&langs_count=8&count_private=true&layout=compact&theme=tokyonight" />
-    </a>
-</p>
-
-
-</h2>
-
-
-<h2>
-    My Profile Stats
-    <br/><br/>
-
-![Vasundhara Tiwari](https://github-readme-stats.vercel.app/api?username=vasundhara-tiwari&show_icons=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vasundhara-tiwari&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</h2>
+ 
