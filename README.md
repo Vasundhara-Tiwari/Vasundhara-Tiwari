@@ -24,11 +24,9 @@
     </h2>
 
 <p>
-    <a href="https://github.com/vasundhara-tiwari/github-readme-stats" align="left">
-        <img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundhara-tiwari&langs_count=8&count_private=true&layout=compact&theme=tokyonight" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasundhara-tiwari&show_icons=true&locale=en&layout=compact&theme=dark" alt="vasundhara-tiwari" />
     <img src="https://user-images.githubusercontent.com/56646239/217609354-081cde59-89da-405f-b4ea-afbf1fe90057.gif" align="right">
-    </p>
+</p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32>
     <br/>
