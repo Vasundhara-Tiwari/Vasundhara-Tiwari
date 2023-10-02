@@ -12,7 +12,8 @@
   - 😄 Pronouns: She/her <br/>
   - 😎 Profile views: &nbsp; <img src="https://komarev.com/ghpvc/?username=vasundhara-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="vasundhara-tiwari" />
   
-<h2> Get In Touch<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> 
+<span> **Get In Touch** </span> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50">
+<br/>
  <p align="left">
   <a href = 'https://www.linkedin.com/in/vasundhara-tiwari'> <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" height="30" width="40" /></a> 
   <a href="https://www.codechef.com/users/vasundhara21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vasundhara21" height="30" width="40" /></a>
@@ -21,7 +22,6 @@
    <a href="https://codepen.io/vasundhara-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vasundhara-tiwari" height="30" width="40" /></a>
 <a href="https://dribbble.com/vasundhara-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vasundhara-tiwari" height="30" width="40" /></a>
 </p>
-    </h2>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasundhara-tiwari&show_icons=true&locale=en&layout=compact&theme=dark" alt="vasundhara-tiwari" />
